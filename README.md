@@ -1,6 +1,6 @@
 ## R-Programming
 Data Science Specialization Course 2
-In this coursr you will learn how to program in R and how to use R for effective data analysis. you will learn 
+In this course you will learn how to program in R and how to use R for effective data analysis. you will learn 
 how to install and configure software necessary for a statistical programming environment,
 discuss generic programming language concepts as they ae implemented in a high-level
 statistical language. The course covers practical issues in statistical computing which
