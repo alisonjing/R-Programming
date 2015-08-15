@@ -68,7 +68,7 @@ for(i in seq_len(nrow(x))) {
 Be careful with nesting though, nesting beyond 2-3 levels is often very difficult to read/understand.
 
 #### 3.While loops ####
-##### While ####
+##### While #####
 while loops begin by testing a condition. If it is true, then they execute the loop body. Once the loop body is executed, the condition is tested again, and so forth.
 
 ```{R}
