@@ -137,7 +137,7 @@ function(FUN, ..., MoreArgs = NULL, SIMPLIFY =TRUE,
 - **FUN** is a function to apply
 - ...contains arguments to apply over
 - **MoreArgs** is a list of other arguments to **FUN**
-- **SIMPLIFY ** indicates whether the result should be simplified.
+- **SIMPLIFY** indicates whether the result should be simplified.
 
 The following is tedious to type
 **list(rep(1, 4), rep(2,3), rep(3, 2), rep(4, 1))**
