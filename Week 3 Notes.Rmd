@@ -50,7 +50,6 @@ lapply(x, mean)
 ```{R}
 x <- 1:4
 lapply(x, runif)
-
 ```
 
 ```{R]}
@@ -200,9 +199,9 @@ split takes a vector or other objects and splits it into groups determined by a 
 str(split)
 function (x,f,drop=FALSE, ...)
 ```
--**x** is a vector(or list) or data frame
--**f** is a factor(or coerced to one)or a list of factors
--**drop** indicates whether empty factors lecels should be dropped
+- **x** is a vector(or list) or data frame
+- **f** is a factor(or coerced to one)or a list of factors
+- **drop** indicates whether empty factors lecels should be dropped
 
 ```{r}
 x<- c(rnorm(10), runif(10), rnorm(10,1))
