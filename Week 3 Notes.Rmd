@@ -18,7 +18,7 @@ Writing for, while loops is useful when programming but not particularly easy wh
 An auxilliary **split** is also useful, particularly in conjunction with **lapply**.
 
 #### lapply ####
-**lapply ** takes three arguments: (1) a list **x**; (2) a function(or the nameof a function) **FUN**; (3) other arguments via its...argument. If **x** is not a list, it will be coerced to a list using **as.list**.
+**lapply** takes three arguments: (1) a list **x**; (2) a function(or the nameof a function) **FUN**; (3) other arguments via its...argument. If **x** is not a list, it will be coerced to a list using **as.list**.
 
 ```
 lapply
